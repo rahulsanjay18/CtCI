@@ -1,4 +1,4 @@
-﻿TARGET=dsa
+﻿TARGET=dsa.out
 INCLUDES = $(wildcard *.h)
 DEPS = linked_list.h linked_list_test.h
 SOURCES = linked_list.c linked_list_test.c main.c 
